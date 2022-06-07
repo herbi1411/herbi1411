@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herbi1411&hide=contribs,prs&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herbi1411&hide=contribs,prs&theme=radical)
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
